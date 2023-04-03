@@ -96,7 +96,7 @@ clearInterval(myTimer);
 
 //17. Use a ternary c
 
-const age = 41;
+const age = 17;
 const beverage = age >= 18 ? "Beer" : "Juice";
 
-console.log(beverage); // "Beer"
+console.log(beverage); // "juice"
